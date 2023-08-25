@@ -19,7 +19,7 @@ This is my first Frontend Mentor challenge. Scan the QR code and visit the Front
 
 ### Screenshot
 
-![](./design/Screenshoot.png)
+![](https://raw.github.com/Alokray007/qr-code-component-FM/main/design/Screenshoot.png)
 
 ### Links
 
